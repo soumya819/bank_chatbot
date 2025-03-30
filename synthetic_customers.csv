@@ -1,0 +1,6 @@
+customer_id,name,age,income,spending_category,monthly_spending
+CUST1000,Saumya Chakraborty,25,50000,Luxury,20000
+CUST1001,Shubhadeep Bhattacharya,40,70000,Essentials,30000
+CUST1002,Pratyusha Das,30,45000,Entertainment,15000
+CUST1003,Rishav Sinha,50,90000,Investment,50000
+CUST1004,Debabrata Burman,35,60000,Travel,25000
